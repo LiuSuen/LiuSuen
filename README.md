@@ -1,9 +1,9 @@
 ### Hi there 👋, I'm Liu.
 ### About Me
 - 🎓 M.S. Computer Engineering Student at Duke University, graduating in May 2024
-- 👩🏻‍💻 Software Engineering Intern at Forewarned, Inc, Data Engineering Intern at eBay and Tencent
-- 🌉 I enjoy writing C++, Swift and Python
-- 🌄 I have big passion for iOS development and data engineering
+- 👩🏻‍💻 Software Engineering Intern at Forewarned Inc., Data Engineering Intern at eBay and Tencent
+- 🌉 I enjoy writing C++, Java, Python and Swift
+- 🌄 I have a big passion for distributed systems and machine learning
 - 🥳 I am the golf player in our college team
 ### 
 <!--
